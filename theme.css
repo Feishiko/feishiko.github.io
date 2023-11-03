@@ -1,0 +1,217 @@
+body {
+    background-color: rgb(237, 119, 129);
+}
+
+.card {
+    width: 300px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: black;
+    opacity: 80%;
+    border-radius: 20px;
+}
+
+.card-pic {
+    border-radius: 100px;
+}
+
+.name {
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
+
+.text {
+    color: aliceblue;
+    text-align: center;
+    font-size: 18px;
+}
+
+.url-card tr {
+    background-color: black;
+    opacity: 60%;
+}
+
+.url-card th {
+    padding: 40px;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.url-card {
+    margin: 0 auto;
+}
+
+.some {
+    color: aliceblue;
+    text-align: center;
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    color: chocolate;
+}
+
+a:hover {
+    color: brown;
+}
+
+table {
+    padding: 20px;
+}
+
+table tr td {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+.game-card {
+    background-color: rgb(27, 27, 27);
+    width: 280px;
+    height: 300px;
+    opacity: 90%;
+    padding: 0;
+}
+
+.center {
+    margin: 0 auto;
+}
+
+.title {
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+}
+
+.desctiption {
+    color: aliceblue;
+    text-align: center;
+}
+
+.title-img {
+    width: 280px;
+    object-fit: cover;
+}
+
+.type-roguelite::after {
+    content: "Roguelite";
+    background-color: pink;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+}
+
+.type-roguelike::after {
+    content: "Roguelike";
+    background-color: pink;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+}
+
+.type-platformer::after {
+    content: "Platformer";
+    background-color: pink;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+}
+
+.type-adventure::after {
+    content: "Adventure";
+    background-color: pink;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+}
+
+.type-shooting::after {
+    content: "Shooting";
+    background-color: pink;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+}
+
+.type-rpg::after {
+    content: "RPG";
+    background-color: pink;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+}
+
+.type-tool::after {
+    content: "Tool";
+    background-color: pink;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+}
+
+.type-puzzle::after {
+    content: "Puzzle";
+    background-color: pink;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+}
+
+.type-td::after {
+    content: "TD";
+    background-color: pink;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+}
+
+.type-survival::after {
+    content: "Survival";
+    background-color: pink;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+}
+
+.type-shuodedaoli::after {
+    content: "阿米浴说的道理";
+    background-color: pink;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+}
+
+.type-card::after {
+    content: "Card";
+    background-color: pink;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+}
+
+.type-gamemaker::after {
+    content: "Gamemaker";
+    background-color: greenyellow;
+    border-radius: 10px;
+    padding: 3px;
+    margin: 3px;
+}
+
+.type-tic80::after {
+    content: "Tic-80";
+    background-color: greenyellow;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+}
+
+.game-card:hover {
+    opacity: 70%;
+}
