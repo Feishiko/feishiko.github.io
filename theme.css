@@ -1,14 +1,15 @@
 body {
-    background-color: rgb(237, 119, 129);
+    background-color: rgb(49, 117, 177);
 }
 
 .card {
     width: 300px;
     height: 500px;
     margin: 0 auto;
-    background-color: black;
-    opacity: 80%;
+    margin-bottom: 10px;
+    background-color: rgb(4, 4, 39);
     border-radius: 20px;
+    box-shadow: 0px 10px #fff;
 }
 
 .card-pic {
@@ -27,15 +28,32 @@ body {
     font-size: 18px;
 }
 
-.url-card tr {
-    background-color: black;
-    opacity: 60%;
-}
-
 .url-card th {
-    padding: 40px;
+    padding: 20px;
     font-size: 20px;
     color: aliceblue;
+    background-color: rgb(25, 29, 55);
+    box-shadow: 0px 10px #fff;
+    margin: 5px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+.url-card th:hover {
+    animation: buttonPressed 0.1s;
+    animation-timing-function: cubic-bezier(0.455, 0.03, 0.515, 0.955);
+    animation-fill-mode: forwards;
+}
+
+@keyframes buttonPressed {
+    0% {
+        transform: translate(0, 0);
+        box-shadow: 0px 10px #fff;
+    }
+    100% {
+        transform: translate(0, 10px);
+        box-shadow: 0px 2px #fff;
+    }
 }
 
 .url-card {
@@ -73,12 +91,26 @@ h1 {
 }
 
 .game-card {
-    background-color: rgb(27, 27, 27);
+    background-color: rgb(29, 42, 66);
     width: 280px;
     /* height: 380px; */
-    opacity: 90%;
+    /* opacity: 90%; */
     padding: 0;
     margin: 5px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-radius: 20px;
+}
+
+.game-card:hover {
+    animation: extend 0.2s;
+    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+    animation-fill-mode: forwards;
+}
+
+@keyframes extend {
+    0% {transform: translate(0, 0);}
+    100% {transform: translate(0, -20px);}
 }
 
 .center {
@@ -99,10 +131,13 @@ h1 {
 .title-img {
     width: 280px;
     object-fit: cover;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
 }
 
 .type-roguelite::after {
     content: "Roguelite";
+    display: inline-block;
     background-color: pink;
     border-radius: 10px;
     padding: 2px;
@@ -111,6 +146,7 @@ h1 {
 
 .type-roguelike::after {
     content: "Roguelike";
+    display: inline-block;
     background-color: pink;
     border-radius: 10px;
     padding: 2px;
@@ -119,6 +155,7 @@ h1 {
 
 .type-platformer::after {
     content: "Platformer";
+    display: inline-block;
     background-color: pink;
     border-radius: 10px;
     padding: 2px;
@@ -127,6 +164,7 @@ h1 {
 
 .type-adventure::after {
     content: "Adventure";
+    display: inline-block;
     background-color: pink;
     border-radius: 10px;
     padding: 2px;
@@ -135,6 +173,7 @@ h1 {
 
 .type-shooting::after {
     content: "Shooting";
+    display: inline-block;
     background-color: pink;
     border-radius: 10px;
     padding: 2px;
@@ -143,6 +182,7 @@ h1 {
 
 .type-rpg::after {
     content: "RPG";
+    display: inline-block;
     background-color: pink;
     border-radius: 10px;
     padding: 2px;
@@ -151,6 +191,7 @@ h1 {
 
 .type-tool::after {
     content: "Tool";
+    display: inline-block;
     background-color: pink;
     border-radius: 10px;
     padding: 2px;
@@ -159,6 +200,7 @@ h1 {
 
 .type-puzzle::after {
     content: "Puzzle";
+    display: inline-block;
     background-color: pink;
     border-radius: 10px;
     padding: 2px;
@@ -167,6 +209,7 @@ h1 {
 
 .type-td::after {
     content: "TowerDefense";
+    display: inline-block;
     background-color: pink;
     border-radius: 10px;
     padding: 2px;
@@ -175,6 +218,7 @@ h1 {
 
 .type-survival::after {
     content: "Survival";
+    display: inline-block;
     background-color: pink;
     border-radius: 10px;
     padding: 2px;
@@ -183,6 +227,7 @@ h1 {
 
 .type-shuodedaoli::after {
     content: "阿米浴说的道理";
+    display: inline-block;
     background-color: pink;
     border-radius: 10px;
     padding: 2px;
@@ -191,6 +236,7 @@ h1 {
 
 .type-card::after {
     content: "Card";
+    display: inline-block;
     background-color: pink;
     border-radius: 10px;
     padding: 2px;
@@ -199,6 +245,7 @@ h1 {
 
 .type-gamemaker::after {
     content: "Gamemaker";
+    display: inline-block;
     background-color: greenyellow;
     border-radius: 10px;
     padding: 3px;
@@ -207,14 +254,11 @@ h1 {
 
 .type-tic80::after {
     content: "Tic-80";
+    display: inline-block;
     background-color: greenyellow;
     border-radius: 10px;
     padding: 2px;
     margin: 3px;
-}
-
-.game-card:hover {
-    opacity: 70%;
 }
 
 .flex-container {
