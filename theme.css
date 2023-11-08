@@ -279,3 +279,8 @@ h1 {
         flex-direction: column;
     }
 }
+
+.footer {
+    text-align: center;
+    color: aliceblue;
+}
