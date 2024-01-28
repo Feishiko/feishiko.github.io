@@ -276,6 +276,15 @@ h1 {
     margin: 3px;
 }
 
+.type-cc::after {
+    content: "Cocos Creator";
+    display: inline-block;
+    background-color: greenyellow;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+}
+
 .flex-container {
     display: flex;
 }
