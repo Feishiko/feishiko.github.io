@@ -258,6 +258,15 @@ h1 {
     margin: 3px;
 }
 
+.type-programming::after {
+    content: "Programming";
+    display: inline-block;
+    background-color: pink;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+}
+
 .type-gamemaker::after {
     content: "Gamemaker";
     display: inline-block;
@@ -278,6 +287,15 @@ h1 {
 
 .type-cc::after {
     content: "Cocos Creator";
+    display: inline-block;
+    background-color: greenyellow;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+}
+
+.type-unity::after {
+    content: "Unity";
     display: inline-block;
     background-color: greenyellow;
     border-radius: 10px;
