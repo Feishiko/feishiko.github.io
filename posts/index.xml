@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Feishiko&#39;s Blog Site</title>
+    <link>https://github.com/Feishiko/feishiko-blog-page/tree/master/posts/</link>
+    <description>Recent content in Posts on Feishiko&#39;s Blog Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Feishiko</copyright>
+    <lastBuildDate>Sat, 22 Jun 2024 10:55:53 +0800</lastBuildDate><atom:link href="https://github.com/Feishiko/feishiko-blog-page/tree/master/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>编程：三目有四样写法，你知道么？</title>
+      <link>https://github.com/Feishiko/feishiko-blog-page/tree/master/posts/%E7%BC%96%E7%A8%8B%E4%B8%89%E7%9B%AE%E6%9C%89%E5%9B%9B%E6%A0%B7%E5%86%99%E6%B3%95%E4%BD%A0%E7%9F%A5%E9%81%93%E4%B9%88/</link>
+      <pubDate>Sat, 22 Jun 2024 10:55:53 +0800</pubDate>
+      
+      <guid>https://github.com/Feishiko/feishiko-blog-page/tree/master/posts/%E7%BC%96%E7%A8%8B%E4%B8%89%E7%9B%AE%E6%9C%89%E5%9B%9B%E6%A0%B7%E5%86%99%E6%B3%95%E4%BD%A0%E7%9F%A5%E9%81%93%E4%B9%88/</guid>
+      <description>孔乙己是站着喝酒而穿长衫的唯一的人。他身材很高大；青白脸色，皱纹间时常夹些伤痕；一部乱蓬蓬的花白的胡子。穿的虽然是长衫，可是又脏又破，似乎十多年没有补，也没有洗。他对人说话，总是满口之乎者也，教人半懂不懂的。因为他姓孔，别人便从描红纸上的“上大人孔乙己”这半懂不懂的话里，替他取下一个绰号，叫作孔乙己。孔乙己一到店，所有喝酒的人便都看着他笑，有的叫道，“孔乙己，你脸上又添上新伤疤了！”他不回答，对柜里说，“温两碗酒，要一碟茴香豆。”便排出九文大钱。他们又故意的高声嚷道，“你一定又偷了人家的东西了！”孔乙己睁大眼睛说，“你怎么这样凭空污人清白……”“什么清白？我前天亲眼见你偷了何家的代码，吊着打。”孔乙己便涨红了脸，额上的青筋条条绽出，争辩道，“窃码不能算偷……窃码！……程序员的事，能算偷么？”接连便是难懂的话，什么“自由软件”，什么“开源”之类，引得众人都哄笑起来：店内外充满了快活的空气。</description>
+      
+    </item>
+    
+  </channel>
+</rss>
