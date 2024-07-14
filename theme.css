@@ -330,6 +330,15 @@ h1 {
     margin: 3px;
 }
 
+.type-raylib::after {
+    content: "Raylib";
+    display: inline-block;
+    background-color: greenyellow;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+}
+
 .flex-container {
     display: flex;
 }
