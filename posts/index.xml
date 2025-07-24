@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Feishiko&#39;s Blog Site</title>
+    <link>http://localhost:1313/feishiko-blog-page/posts/</link>
+    <description>Recent content in Posts on Feishiko&#39;s Blog Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Feishiko</copyright>
+    <lastBuildDate>Mon, 02 Jun 2025 11:58:58 +0800</lastBuildDate><atom:link href="http://localhost:1313/feishiko-blog-page/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>游戏开发：Love2d游戏打包到Android</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91love2d%E6%B8%B8%E6%88%8F%E6%89%93%E5%8C%85%E5%88%B0android/</link>
+      <pubDate>Mon, 02 Jun 2025 11:58:58 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91love2d%E6%B8%B8%E6%88%8F%E6%89%93%E5%8C%85%E5%88%B0android/</guid>
+      <description>最近我在做一个新的游戏，出于某种原因这是一个手机游戏，所以我需要把它打包到安卓。</description>
+      
+    </item>
+    
+    <item>
+      <title>游戏开发：Lua的Class补全</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91lua%E7%9A%84class%E8%A1%A5%E5%85%A8/</link>
+      <pubDate>Sat, 29 Mar 2025 16:09:12 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91lua%E7%9A%84class%E8%A1%A5%E5%85%A8/</guid>
+      <description>最近写Lua的时候偶然发现可以通过文档注释然后为拟定成Class的Table进行补全。</description>
+      
+    </item>
+    
+    <item>
+      <title>使用纯TypeScript的游戏开发</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E4%BD%BF%E7%94%A8%E7%BA%AFtypescript%E7%9A%84%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/</link>
+      <pubDate>Wed, 13 Nov 2024 20:38:49 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E4%BD%BF%E7%94%A8%E7%BA%AFtypescript%E7%9A%84%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/</guid>
+      <description>因为突然想尝试一下以HTML的Canvas为基础做一下游戏开发！所以就开始做了并且写下这篇文章记录一下</description>
+      
+    </item>
+    
+    <item>
+      <title>游戏开发：使用vscode写love2d</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%BD%BF%E7%94%A8vscode%E5%86%99love2d/</link>
+      <pubDate>Fri, 18 Oct 2024 17:34:43 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%BD%BF%E7%94%A8vscode%E5%86%99love2d/</guid>
+      <description>其实我已经用vscode写了好几个love2d游戏了，我自己的库也在不断完善。</description>
+      
+    </item>
+    
+    <item>
+      <title>电脑维修：Dell G15 两黄一白电脑黑屏静电问题</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E7%94%B5%E8%84%91%E7%BB%B4%E4%BF%AEdellg15%E4%B8%A4%E9%BB%84%E4%B8%80%E7%99%BD%E7%94%B5%E8%84%91%E9%BB%91%E5%B1%8F%E9%9D%99%E7%94%B5%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Mon, 09 Sep 2024 17:33:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E7%94%B5%E8%84%91%E7%BB%B4%E4%BF%AEdellg15%E4%B8%A4%E9%BB%84%E4%B8%80%E7%99%BD%E7%94%B5%E8%84%91%E9%BB%91%E5%B1%8F%E9%9D%99%E7%94%B5%E9%97%AE%E9%A2%98/</guid>
+      <description>今天兴冲冲的逃了课回寝室准备打电动，发现电脑开不了机。看了一眼caps lock按了上面的灯没有反应，可能不是屏幕问题。</description>
+      
+    </item>
+    
+    <item>
+      <title>在Windows上使用wm</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E5%9C%A8windows%E4%B8%8A%E4%BD%BF%E7%94%A8wm/</link>
+      <pubDate>Sun, 01 Sep 2024 14:33:35 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E5%9C%A8windows%E4%B8%8A%E4%BD%BF%E7%94%A8wm/</guid>
+      <description>最近在给scoop上的软件换到cn源上，无意之中发现曾经装过komorebi（windows上的wm）</description>
+      
+    </item>
+    
+    <item>
+      <title>在中国开启Github 2FA验证</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%90%AFgithub2fa%E9%AA%8C%E8%AF%81/</link>
+      <pubDate>Fri, 30 Aug 2024 20:22:59 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%90%AFgithub2fa%E9%AA%8C%E8%AF%81/</guid>
+      <description>最近Github需要开启2FA双端验证，但由于在中国没法发送SMS短信验证，同时Github上推荐了三个身份验证软件。</description>
+      
+    </item>
+    
+    <item>
+      <title>游戏开发：游戏逻辑处理时钟</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E6%B8%B8%E6%88%8F%E9%80%BB%E8%BE%91%E5%A4%84%E7%90%86%E6%97%B6%E9%92%9F/</link>
+      <pubDate>Wed, 21 Aug 2024 14:36:15 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E6%B8%B8%E6%88%8F%E9%80%BB%E8%BE%91%E5%A4%84%E7%90%86%E6%97%B6%E9%92%9F/</guid>
+      <description>这周参加了GMTK GAMEJAM 2024，是个平台跳跃，游戏内出现了如果卡顿就会卡墙里或者浮空的BUG，经过我仔细研究发现这和我在和时间有关的变量后面都乘上了一个deltatime。</description>
+      
+    </item>
+    
+    <item>
+      <title>游戏开发：优化Love.js的界面适配itch.io</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%BC%98%E5%8C%96love.js%E7%9A%84%E7%95%8C%E9%9D%A2%E9%80%82%E9%85%8Ditch.io/</link>
+      <pubDate>Wed, 21 Aug 2024 14:14:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%BC%98%E5%8C%96love.js%E7%9A%84%E7%95%8C%E9%9D%A2%E9%80%82%E9%85%8Ditch.io/</guid>
+      <description>Love2d要导出网页文件需要使用love.js，但是love.js自带了一个看上去很丑陋的外框使其在上传的itch的时候非常不契合</description>
+      
+    </item>
+    
+    <item>
+      <title>游戏开发：使用Neovim写Love2d</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%BD%BF%E7%94%A8neovim%E5%86%99love2d/</link>
+      <pubDate>Wed, 10 Jul 2024 21:22:43 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%BD%BF%E7%94%A8neovim%E5%86%99love2d/</guid>
+      <description>前段时间电脑坏了，拿去修的这段时间就用了几天自己的300块钱的Linux平板。</description>
+      
+    </item>
+    
+    <item>
+      <title>Web：为Hugo博客添加评论区</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/web%E4%B8%BAhugo%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AF%84%E8%AE%BA%E5%8C%BA/</link>
+      <pubDate>Thu, 27 Jun 2024 10:47:39 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/web%E4%B8%BAhugo%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AF%84%E8%AE%BA%E5%8C%BA/</guid>
+      <description>上回说到，我用Hugo + Github Page搭建了一个个人博客小站，昨天有朋友想让我加个评论区，于是我就加了一下。</description>
+      
+    </item>
+    
+    <item>
+      <title>Web：使用Hugo和Github Page创建个人博客</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/web%E4%BD%BF%E7%94%A8hugo%E5%92%8Cgithub-page%E5%88%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sun, 23 Jun 2024 11:00:56 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/web%E4%BD%BF%E7%94%A8hugo%E5%92%8Cgithub-page%E5%88%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>前言 #很久一段时间没有写博客了，或者说今年只写了几篇。和一个哥们聊了一会发觉要把所做的事情给记录下来，能发网上当赛博遗产也不错。其中比较受这篇文章影响如何搭建知识库</description>
+      
+    </item>
+    
+    <item>
+      <title>编程：三目有四样写法，你知道么？</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E7%BC%96%E7%A8%8B%E4%B8%89%E7%9B%AE%E6%9C%89%E5%9B%9B%E6%A0%B7%E5%86%99%E6%B3%95%E4%BD%A0%E7%9F%A5%E9%81%93%E4%B9%88/</link>
+      <pubDate>Sat, 22 Jun 2024 10:55:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E7%BC%96%E7%A8%8B%E4%B8%89%E7%9B%AE%E6%9C%89%E5%9B%9B%E6%A0%B7%E5%86%99%E6%B3%95%E4%BD%A0%E7%9F%A5%E9%81%93%E4%B9%88/</guid>
+      <description>孔乙己是站着喝酒而穿长衫的唯一的人。他身材很高大；青白脸色，皱纹间时常夹些伤痕；一部乱蓬蓬的花白的胡子。穿的虽然是长衫，可是又脏又破，似乎十多年没有补，也没有洗。他对人说话，总是满口之乎者也，教人半懂不懂的。因为他姓孔，别人便从描红纸上的“上大人孔乙己”这半懂不懂的话里，替他取下一个绰号，叫作孔乙己。孔乙己一到店，所有喝酒的人便都看着他笑，有的叫道，“孔乙己，你脸上又添上新伤疤了！”他不回答，对柜里说，“温两碗酒，要一碟茴香豆。”便排出九文大钱。他们又故意的高声嚷道，“你一定又偷了人家的东西了！”孔乙己睁大眼睛说，“你怎么这样凭空污人清白……”“什么清白？我前天亲眼见你偷了何家的代码，吊着打。”孔乙己便涨红了脸，额上的青筋条条绽出，争辩道，“窃码不能算偷……窃码！……程序员的事，能算偷么？”接连便是难懂的话，什么“自由软件”，什么“开源”之类，引得众人都哄笑起来：店内外充满了快活的空气。</description>
+      
+    </item>
+    
+    <item>
+      <title>游戏开发：独立游戏与个人开发者</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E4%B8%8E%E4%B8%AA%E4%BA%BA%E5%BC%80%E5%8F%91%E8%80%85/</link>
+      <pubDate>Sat, 11 May 2024 15:40:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E4%B8%8E%E4%B8%AA%E4%BA%BA%E5%BC%80%E5%8F%91%E8%80%85/</guid>
+      <description>看到今年CUSGA（中国大学生游戏开发大赛）有一个解谜游戏画面很不错，谜题设计也很优秀，之后发现是一个人做的。</description>
+      
+    </item>
+    
+    <item>
+      <title>游戏开发：开发工具的意义</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E7%9A%84%E6%84%8F%E4%B9%89/</link>
+      <pubDate>Tue, 30 Jan 2024 02:02:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E7%9A%84%E6%84%8F%E4%B9%89/</guid>
+      <description>最近参加了Gloabl Game Jam，本来是负责画素材做音乐音效关卡设计和文案的，结果第一天就全部做完了。第二天在程序的提议下帮他写了一些代码，不过还好写了，不然游戏就做不完了。</description>
+      
+    </item>
+    
+    <item>
+      <title>Shader：使用二进制存储1-bit位图数据</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/shader%E4%BD%BF%E7%94%A8%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AD%98%E5%82%A81-bit%E4%BD%8D%E5%9B%BE%E6%95%B0%E6%8D%AE/</link>
+      <pubDate>Fri, 24 Nov 2023 20:25:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/shader%E4%BD%BF%E7%94%A8%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AD%98%E5%82%A81-bit%E4%BD%8D%E5%9B%BE%E6%95%B0%E6%8D%AE/</guid>
+      <description>最近为了给游戏添加一些背景，速通了一下Shader，虽然不知道为什么顺便把sdf和raymarching和dnl一起速通了。顺便研究了一下Shader golf（压缩代码数量），在研究Shader golf的时候，我发现可以利用位运算去读取存储在二进制里面的数据，由此来画出1-bit的像素图，并且Tiling。</description>
+      
+    </item>
+    
+    <item>
+      <title>游戏开发：使用ASCII Map</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%BD%BF%E7%94%A8ascii-map/</link>
+      <pubDate>Mon, 06 Nov 2023 00:31:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%BD%BF%E7%94%A8ascii-map/</guid>
+      <description>在游戏开发中，会出现一种对格子之间逻辑要求严密的游戏；或者是由于使用的工具封装度较低，为了方便而不得不使用的一种方法。</description>
+      
+    </item>
+    
+    <item>
+      <title>Celeste Olympus启动就报错&#43;无法安装Everest</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/celeste-olympus%E5%90%AF%E5%8A%A8%E5%B0%B1%E6%8A%A5%E9%94%99&#43;%E6%97%A0%E6%B3%95%E5%AE%89%E8%A3%85everest/</link>
+      <pubDate>Fri, 06 Oct 2023 11:07:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/celeste-olympus%E5%90%AF%E5%8A%A8%E5%B0%B1%E6%8A%A5%E9%94%99&#43;%E6%97%A0%E6%B3%95%E5%AE%89%E8%A3%85everest/</guid>
+      <description>有段时间没有玩蔚蓝了，想玩蔚蓝发现我的Olympus出了一些问题。</description>
+      
+    </item>
+    
+    <item>
+      <title>游戏开发：前后端分离的设计思路</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%B7%AF/</link>
+      <pubDate>Wed, 20 Sep 2023 22:17:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%B7%AF/</guid>
+      <description>最近看到了很多Unity的游戏工程开始往Godot迁移，具体原因是因为Unity的收费政策的调整导致很多开发者不愿意继续使用Unity，逐渐开始跳转到其他的游戏引擎/框架上，我所见的就C#而言，跳的大多是Godot Mono，不过我正好近期也在用Godot Mono做一个解密游戏。</description>
+      
+    </item>
+    
+    <item>
+      <title>游戏设计：独立游戏的个性</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E7%9A%84%E4%B8%AA%E6%80%A7/</link>
+      <pubDate>Wed, 20 Sep 2023 16:18:48 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E7%9A%84%E4%B8%AA%E6%80%A7/</guid>
+      <description>纵观历史，游戏的存在时间很短，中国的游戏历史更短，独立游戏也不过十年前开始散播萌芽。</description>
+      
+    </item>
+    
+    <item>
+      <title>游戏开发：最小场景树的实现</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E6%9C%80%E5%B0%8F%E5%9C%BA%E6%99%AF%E6%A0%91%E7%9A%84%E5%AE%9E%E7%8E%B0/</link>
+      <pubDate>Wed, 20 Sep 2023 00:13:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E6%9C%80%E5%B0%8F%E5%9C%BA%E6%99%AF%E6%A0%91%E7%9A%84%E5%AE%9E%E7%8E%B0/</guid>
+      <description>由于暂时不是那么想写最近在做的游戏的代码，又动了歪心思想怎么在室友大晚上聊天让我难以睡着的时候能在tic-80做点游戏，又由于我欠缺低封装框架的代码经验，于是花了一点时间研究了一下怎么实现最小场景树。</description>
+      
+    </item>
+    
+    <item>
+      <title>Surface平板电脑安装Archlinux</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/surface%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E5%AE%89%E8%A3%85archlinux/</link>
+      <pubDate>Sat, 26 Aug 2023 14:39:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/surface%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E5%AE%89%E8%A3%85archlinux/</guid>
+      <description>前提须知 #本文并非新手向教程，更多我想是个人心得，基本的Arch安装步骤也不会在本文中列出。</description>
+      
+    </item>
+    
+    <item>
+      <title>2023.8.20关于Waybar出了点问题</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/2023.8.20%E5%85%B3%E4%BA%8Ewaybar%E5%87%BA%E4%BA%86%E7%82%B9%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Sun, 20 Aug 2023 21:54:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/2023.8.20%E5%85%B3%E4%BA%8Ewaybar%E5%87%BA%E4%BA%86%E7%82%B9%E9%97%AE%E9%A2%98/</guid>
+      <description>事情概况 #在出事之前，我全部滚动了，但是因为Aseprite需要libfmt.</description>
+      
+    </item>
+    
+    <item>
+      <title>Fcitx5无法在Chromium上使用</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/fcitx5%E6%97%A0%E6%B3%95%E5%9C%A8chromium%E4%B8%8A%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Sat, 15 Jul 2023 21:46:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/fcitx5%E6%97%A0%E6%B3%95%E5%9C%A8chromium%E4%B8%8A%E4%BD%BF%E7%94%A8/</guid>
+      <description>笔者用的是Arch Linux, 目前使用Sway窗口管理器，想通过Fcitx5输入中文，浏览器之前用的是Chromium，但是光标移动到Chromium上后按默认快捷键Ctrl + Space没有反应。光标移动到Kitty(一个Console)上之后按快捷键有反应，并且能键入中文，但目前有个问题是不会显示下面的提示，只能凭印象打出。</description>
+      
+    </item>
+    
+    <item>
+      <title>在reaper中实现倒带</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E5%9C%A8reaper%E4%B8%AD%E5%AE%9E%E7%8E%B0%E5%80%92%E5%B8%A6/</link>
+      <pubDate>Tue, 04 Apr 2023 18:38:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E5%9C%A8reaper%E4%B8%AD%E5%AE%9E%E7%8E%B0%E5%80%92%E5%B8%A6/</guid>
+      <description>只能通过波形文件倒带，如果你要倒带的部分是midi，那么首先需要以下步骤：</description>
+      
+    </item>
+    
+    <item>
+      <title>基于马尔科夫链的随机文章生成</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E5%9F%BA%E4%BA%8E%E9%A9%AC%E5%B0%94%E7%A7%91%E5%A4%AB%E9%93%BE%E7%9A%84%E9%9A%8F%E6%9C%BA%E6%96%87%E7%AB%A0%E7%94%9F%E6%88%90/</link>
+      <pubDate>Wed, 29 Mar 2023 10:08:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E5%9F%BA%E4%BA%8E%E9%A9%AC%E5%B0%94%E7%A7%91%E5%A4%AB%E9%93%BE%E7%9A%84%E9%9A%8F%E6%9C%BA%E6%96%87%E7%AB%A0%E7%94%9F%E6%88%90/</guid>
+      <description>这几天在玩Caves of Qud，这是一个传统Roguelike游戏，游戏的背景是末日后，人们用水作为一般等价物进行交易，同时用水进行水仪式，可以促进不同派系之间的好感度。游戏中的书本内容是随机生成的，听群友说是隐马尔科夫链，之后出于好奇自己搜了一些资料，并且尝试用马尔科夫链生成一些内容，以下内容是我基于自己写的模型，并且用Soul Music作为语料库生成的内容：</description>
+      
+    </item>
+    
+    <item>
+      <title>数组在游戏开发中的应用</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E6%95%B0%E7%BB%84%E5%9C%A8%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/</link>
+      <pubDate>Thu, 09 Mar 2023 15:16:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E6%95%B0%E7%BB%84%E5%9C%A8%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/</guid>
+      <description>很多游戏，像Tetris（俄罗斯方块）、Sokoban（推箱子）的逻辑实现都是依靠对数据的操纵，把离散的数据用数据结构储存起来，就能对其做很多事情。</description>
+      
+    </item>
+    
+    <item>
+      <title>朗伯余弦定律在游戏开发中的应用</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E6%9C%97%E4%BC%AF%E4%BD%99%E5%BC%A6%E5%AE%9A%E5%BE%8B%E5%9C%A8%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/</link>
+      <pubDate>Sat, 18 Feb 2023 01:26:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E6%9C%97%E4%BC%AF%E4%BD%99%E5%BC%A6%E5%AE%9A%E5%BE%8B%E5%9C%A8%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/</guid>
+      <description>朗伯余弦定律 #用来计算某个角度所得到的亮度的多少，因为亮度不可能小于0（范围0-1），所以最小值为0</description>
+      
+    </item>
+    
+    <item>
+      <title>用ShaderToy实现牛顿迭代法分形图像</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E7%94%A8shadertoy%E5%AE%9E%E7%8E%B0%E7%89%9B%E9%A1%BF%E8%BF%AD%E4%BB%A3%E6%B3%95%E5%88%86%E5%BD%A2%E5%9B%BE%E5%83%8F/</link>
+      <pubDate>Fri, 17 Feb 2023 04:05:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E7%94%A8shadertoy%E5%AE%9E%E7%8E%B0%E7%89%9B%E9%A1%BF%E8%BF%AD%E4%BB%A3%E6%B3%95%E5%88%86%E5%BD%A2%E5%9B%BE%E5%83%8F/</guid>
+      <description>牛顿迭代法 #可用来收敛到一个点，通过不停的迭代，求方程的近似根。</description>
+      
+    </item>
+    
+    <item>
+      <title>生成Sinhash和Fracthash Noise</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E7%94%9F%E6%88%90sinhash%E5%92%8Cfracthash-noise/</link>
+      <pubDate>Fri, 27 Jan 2023 21:48:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E7%94%9F%E6%88%90sinhash%E5%92%8Cfracthash-noise/</guid>
+      <description>在Shader中要生成随机数，就要生成Noise图，通常来说我们都知道可以用sin+fract函数。这种方法也叫Sinhash。</description>
+      
+    </item>
+    
+    <item>
+      <title>使用CSS实现低保真图文本</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E4%BD%BF%E7%94%A8css%E5%AE%9E%E7%8E%B0%E4%BD%8E%E4%BF%9D%E7%9C%9F%E5%9B%BE%E6%96%87%E6%9C%AC/</link>
+      <pubDate>Fri, 16 Dec 2022 15:17:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E4%BD%BF%E7%94%A8css%E5%AE%9E%E7%8E%B0%E4%BD%8E%E4%BF%9D%E7%9C%9F%E5%9B%BE%E6%96%87%E6%9C%AC/</guid>
+      <description>最近在学网页前端，想试着实现低保真图下的那种伪文本，然后我试着去实现了一下。</description>
+      
+    </item>
+    
+    <item>
+      <title>如何在bilibili上传markdown</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E5%A6%82%E4%BD%95%E5%9C%A8bilibili%E4%B8%8A%E4%BC%A0markdown/</link>
+      <pubDate>Sun, 30 Oct 2022 23:38:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E5%A6%82%E4%BD%95%E5%9C%A8bilibili%E4%B8%8A%E4%BC%A0markdown/</guid>
+      <description>你大概需要4min来阅读这篇文章 #最近有一直开始写博客，用markdown写，然后传各个平台，关于Bilibili，我们知道它是不支持markdown的，所以我们正常情况下是传不上去的。</description>
+      
+    </item>
+    
+    <item>
+      <title>用Markdown在各个网站写博客</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E7%94%A8markdown%E5%9C%A8%E5%90%84%E4%B8%AA%E7%BD%91%E7%AB%99%E5%86%99%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sun, 30 Oct 2022 23:29:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E7%94%A8markdown%E5%9C%A8%E5%90%84%E4%B8%AA%E7%BD%91%E7%AB%99%E5%86%99%E5%8D%9A%E5%AE%A2/</guid>
+      <description>你大概需要3min阅读这篇文章 #最近一直在写博客，考察过非常多的网站，想稍微分享一下自己的体会。</description>
+      
+    </item>
+    
+    <item>
+      <title>FAITH的过场CG是怎么制作的</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/faith%E7%9A%84%E8%BF%87%E5%9C%BAcg%E6%98%AF%E6%80%8E%E4%B9%88%E5%88%B6%E4%BD%9C%E7%9A%84/</link>
+      <pubDate>Fri, 28 Oct 2022 23:32:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/faith%E7%9A%84%E8%BF%87%E5%9C%BAcg%E6%98%AF%E6%80%8E%E4%B9%88%E5%88%B6%E4%BD%9C%E7%9A%84/</guid>
+      <description>你大概需要3min来阅读这篇文章 #今天打了FAITH的第二章，因为我自己之前在itch玩过第一章(第一章免费)，所以我很确定这游戏是Gamemaker做的，我想再确认一下这游戏是不是换引擎了，点开游戏根目录，嗯~，确实没换。</description>
+      
+    </item>
+    
+    <item>
+      <title>GMS2中实现时间变慢</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/gms2%E4%B8%AD%E5%AE%9E%E7%8E%B0%E6%97%B6%E9%97%B4%E5%8F%98%E6%85%A2/</link>
+      <pubDate>Fri, 28 Oct 2022 22:10:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/gms2%E4%B8%AD%E5%AE%9E%E7%8E%B0%E6%97%B6%E9%97%B4%E5%8F%98%E6%85%A2/</guid>
+      <description>你大概需要3min来阅读这篇文章 #这里是Feishiko，今天来分享一下关于如何在GMS2中实现时间缓动的效果。</description>
+      
+    </item>
+    
+    <item>
+      <title>游戏用简单像素画素材的绘制</title>
+      <link>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E7%94%A8%E7%AE%80%E5%8D%95%E5%83%8F%E7%B4%A0%E7%94%BB%E7%B4%A0%E6%9D%90%E7%9A%84%E7%BB%98%E5%88%B6/</link>
+      <pubDate>Thu, 27 Oct 2022 18:10:53 +0800</pubDate>
+      
+      <guid>http://localhost:1313/feishiko-blog-page/posts/%E6%B8%B8%E6%88%8F%E7%94%A8%E7%AE%80%E5%8D%95%E5%83%8F%E7%B4%A0%E7%94%BB%E7%B4%A0%E6%9D%90%E7%9A%84%E7%BB%98%E5%88%B6/</guid>
+      <description>你需要10min来阅读这篇文章 #突然想谈谈个人对游戏开发的时候绘制素材这一方面的见解。我不是专业搞美术的，目标也是能用就行，能看就行，今天就来谈谈如何在只有少量基础的情况下绘制出能用的像素画素材。</description>
+      
+    </item>
+    
+  </channel>
+</rss>
